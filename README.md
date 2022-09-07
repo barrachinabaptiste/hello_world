@@ -16,3 +16,6 @@ on encadre le texte avec **deux etoiles**
 
 # **Une image**
 ![Tux, the Linux mascot](/tux.png)
+
+# **un lien**
+[les bonne pratique](https://lycee-benoit.tech/NSI/prem/git/git.html){:target="_blank" }
